@@ -1,0 +1,2 @@
+c:\users\carlos carvalho\documents\visual studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\Debug\Kiwa Akali.exe.config
+c:\users\carlos carvalho\documents\visual studio 2013\Projects\Kiwa Akali\Kiwa Akali\obj\Debug\Kiwa Akali.csprojResolveAssemblyReference.cache

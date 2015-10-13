@@ -1,0 +1,11 @@
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\Kiwa Akali.exe.config
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\Kiwa Akali.exe
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\Kiwa Akali.pdb
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\EloBuddy.dll
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\EloBuddy.SDK.dll
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\SharpDX.dll
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\obj\x86\Debug\Kiwa Akali.exe
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\obj\x86\Debug\Kiwa Akali.pdb
+C:\Users\Carlos Carvalho\Documents\Visual Studio 2013\Projects\Kiwa Akali\Kiwa Akali\obj\x86\Debug\jKiwa Akali.csprojResolveAssemblyReference.cache
